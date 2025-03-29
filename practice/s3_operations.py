@@ -167,4 +167,4 @@ if __name__ == "__main__":
     # empty_bucket()
 
     # Step 9: Delete bucket
-    delete_bucket()
+    # delete_bucket()
